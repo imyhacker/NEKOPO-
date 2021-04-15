@@ -1,0 +1,18 @@
+{
+  "name": "nekopoi",
+  "version": "1.0.0",
+  "description": "Nekopoi App Searcher By Terminal",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "RiiHaxor | Arikun @ IndoSec - 2021",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "nekobocc": "^1.1.0",
+    "tinyurl": "^1.1.7",
+    "yargs": "^16.2.0"
+  }
+}
