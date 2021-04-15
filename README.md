@@ -3,6 +3,10 @@
 # NEKOPO!
 Is A Simple Searcher Nekopoi APP With Nekobocc + NodeJS.
 
+### ATTENTION!
+- Use VPN
+- If error must Use VPN
+
 # How To Use
 For To Use Is App Is Very Simple You Must Run A Simple Syntax In Terminal
 
